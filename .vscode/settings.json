@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "autoflush",
+        "fastapi",
+        "parameterless",
+        "passlib",
+        "pydantic",
+        "sessionmaker",
+        "sqlalchemy",
+        "templating",
+        "todoapp",
+        "todos"
+    ]
+}
